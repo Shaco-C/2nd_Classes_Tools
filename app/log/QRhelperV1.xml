@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\A_STUDY_STUFF\apps\QRcodeGenerate\QRhelper\out\artifacts\QRhelper_jar2\QRhelper.jar</jar>
+  <outfile>D:\A_STUDY_STUFF\apps\QRcodeGenerate\app\QRhelperV1.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine>-Dfile.encoding=UTF-8</cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\A_STUDY_STUFF\apps\QRcodeGenerate\app\jxnee-6ik7y-001.ico</icon>
+  <jre>
+    <path>C:\Users\watergun\.jdks\corretto-17.0.10\bin</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
